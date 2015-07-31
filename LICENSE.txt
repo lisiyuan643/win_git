@@ -6,5 +6,3 @@ let's do it again!
 
 
 let's do it 3rd time!
-
-try the github for windows
