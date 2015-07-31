@@ -5,4 +5,4 @@ Git tracks changes of files.
 What the HEll
 THis is stupid
 
-Creating a new branch
+Creating a new branch is quick and simple
