@@ -9,10 +9,14 @@ let's do it again!
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 let's do it 3rd time!
 
 try the github for windows
 >>>>>>> parent of edd8940... Revert "try the Github for windows"
+=======
+let's do it 3rd time!
+>>>>>>> parent of 01a922a... try the Github for windows
 =======
 let's do it 3rd time!
 >>>>>>> parent of 01a922a... try the Github for windows
