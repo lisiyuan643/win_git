@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 What the HEll
 THis is stupid
+
+Creating a new branch
